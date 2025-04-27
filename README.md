@@ -132,9 +132,9 @@ func deleteAllMovies(movie: Movie) -> AnyPublisher<Bool, Error> {
 
 ## Swift Package Manager
 - File > Swift Packages > Add Package Dependency
-- Add https://github.com/Jeonhui/CoreDataStorage
+- Add https://github.com/JHKits/CoreDataStorage
 ```asm
-https://github.com/Jeonhui/CoreDataStorage
+https://github.com/JHKits/CoreDataStorage
 ```
 
 ## CocoaPods
@@ -148,7 +148,7 @@ pod 'CoreDataStorage'
 
 ## Author
 
-Jeonhui, dlwjsgml02@naver.com
+Jeonhui, l06094@gmail.com
 
 ## License
 
